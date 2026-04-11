@@ -31,3 +31,22 @@ I wanted to build something more practical than small scripts, so this project f
 git clone https://github.com/LynxCodez/finance-tracker.git
 cd finance-tracker
 python main.py
+```
+
+---
+
+## 📸 Screenshot
+
+---
+
+## 📚 What I Learned
+- Structuring a program using functions instead of writing everything in one block
+- Handling user input and preventing invalid data
+- Saving and loading data using JSON
+- Building features step-by-step and improving the project over time
+- How small features (like summaries and categories) make a big difference in usability
+
+---
+
+## 👨‍💻 Author
+# LynxCodez
