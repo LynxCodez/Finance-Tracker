@@ -35,7 +35,19 @@ python main.py
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
+
+### Menu
+![Menu](menu.png)
+
+### History
+![History](history.png)
+
+### Summary
+![Summary](summary.png)
+
+### Balance
+![Balance](balance.png)
 
 ---
 
